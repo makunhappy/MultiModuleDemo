@@ -1,0 +1,8 @@
+﻿<autofac:AutofacPrismApp x:Class="MultiModuleDemo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:services="clr-namespace:MultiModuleDemo.ServiceAdapter"
+             xmlns:autofac="clr-namespace:MultiModuleDemo.AutofacAdapter"
+             xmlns:prisms="http://prismlibrary.com/"
+             >
+</autofac:AutofacPrismApp>

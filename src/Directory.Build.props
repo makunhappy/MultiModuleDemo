@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+	  <PrismCoreVersion>8.1.97</PrismCoreVersion>
+	  <PrismWpfVersion>8.1.97</PrismWpfVersion>
+  </PropertyGroup>
+ </Project>

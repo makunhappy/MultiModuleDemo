@@ -1,0 +1,8 @@
+<Project>
+	
+  <ItemGroup>
+    <PackageReference Include="Prism.Core" Version="$(PrismCoreVersion)" />
+    <PackageReference Include="Prism.Wpf" Version="$(PrismWpfVersion)" />
+  </ItemGroup>
+
+</Project>
